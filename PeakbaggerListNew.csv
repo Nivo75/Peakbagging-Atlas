@@ -1,0 +1,77 @@
+AscentDate,PeakPointName,Location,Lat,Long,Elevation-Gain(ft),Elevation-Gain(m),Prominence(ft),Prominence(m),Vertical-Up(ft),Vertical-Up(m),Distance(mi),Distance(km),Time-Up(min),Time-Down(min),Quality,RoadHike,MaintainedTrail,UnmaintainedTrail,Bushwhack,OpenCountry,MudSwamp,SnowOnGround,Scramble,ExposedScramble,Crampons,Rope,Headlamp,Poles,TentCamp,Solo-Hike,OnlyPartyOnMountain
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/27/18,Sandstone Peak,CA,34.120429,-118.931994,3111,948,2201,671,1006,307,5.7,9.173,60,110,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/17/18,Mugu Peak,CA,34.0926,-119.055101,1266,386,380,116,1243,379,5,8.047,90,70,4,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/09/19,Jones Peak,CA,34.186585,-118.052947,3375,1029,55,17,2272,693,6.1,9.816999,120,94,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/09/19,Hastings Peak,CA,34.194541,-118.062393,4000,1219,0,0,2897,883,6.7,10.783,150,120,5,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/16/19,Mount Islip,CA,34.345028,-117.839871,8250,2515,662,202,2594,791,8,12.874,200,210,7,False,False,True,False,False,False,True,False,False,True,False,False,True,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/30/19,Mount Wilson,CA,34.223722,-118.061675,5710,1740,150,45,3584,1092,11.3,18.185,210,240,6,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04/06/19,Saddleback Butte,CA,34.67607,-117.798293,3651,1113,716,218,947,289,4.8,7.724,70,80,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04/17/19,Enchanted Rock,TX,30.506471,-98.818835,1825,556,425,129,411,125,1.2,1.932,20,10,2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05/23/19,Ryan Mountain,CA,33.986287,-116.134627,5457,1663,937,285,1054,321,2.9,4.667,60,40,4,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05/23/19,Keys View,CA,33.926518,-116.187286,5193,1583,33,10,32,10,0.3,0.483,10,5,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06/01/19,Cucamonga Peak,CA,34.222943,-117.585369,8859,2700,1299,396,3799,1158,12,19.312,210,150,8,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06/08/19,Mount San Antonio,CA,34.289129,-117.646304,10064,3068,6224,1898,3984,1214,6.8,10.944,210,210,8,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/18/19,Woodson Mountain,CA,33.008665,-116.970703,2894,882,1454,443,1214,370,4.1,6.598,80,40,4,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/27/19,Angels Landing,UT,37.269331,-112.947878,5790,1765,430,131,1512,461,4.4,7.082,120,60,4,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/04/19,Peak 8618,UT,40.727718,-111.613091,8618,2627,658,201,1249,381,5,8.046,130,80,4,False,True,True,False,False,True,True,False,False,True,False,False,True,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+02/17/20,Delicate Arch Formation High Point,UT,38.743119,-109.49707,4920,1500,180,55,609,186,3.11,5,40,35,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/07/20,Frary Peak,UT,40.96206,-112.215996,6596,2010,2384,726,2072,632,7.58,12.2,160,120,4,False,True,False,False,False,False,True,False,False,True,False,False,True,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06/13/20,Hidden Valley Dome,UT,41.224653,-111.910873,7017,2139,17,5,2217,676,5.4,8.690001,100,80,4,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+06/20/20,Deseret Peak,UT,40.459494,-112.626393,11031,3362,5812,1771,3613,1101,8.02,12.9,240,180,8,False,True,True,False,False,False,True,True,False,False,False,False,True,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/19/20,Bald Mountain,UT,40.698947,-110.903274,11943,3640,1823,555,1143,348,2.61,4.2,80,40,3,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/26/20,Naomi Peak,UT,41.911382,-111.675411,9979,3042,3159,963,1919,585,6.21,10,150,120,4,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/21/20,Mount Nebo,UT,39.821857,-111.760272,11928,3636,5488,1673,3045,928,8.8,14.162,300,180,9,False,True,True,False,False,False,False,True,True,False,False,True,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05/29/21,Malans Peak,UT,41.20704,-111.918755,6960,2121,0,0,2064,629,5.2,8.368,70,60,3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+05/31/21,Lewis Peak,UT,41.27929,-111.921844,8030,2448,270,83,2065,629,10.6,17.059,180,100,4,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/17/21,Wheeler Peak,NV,38.985775,-114.313908,13063,3982,7563,2306,2927,892,8.5,13.68,230,100,6,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/21/21,Mount Timpanogos,UT,40.390858,-111.646082,11749,3581,5269,1606,4373,1333,13.9,22.369,240,240,8,False,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+07/25/21,Bridger Peak,UT,41.999039,-111.476819,9255,2821,855,261,846,258,3,4.828,70,40,5,False,True,True,True,True,False,False,True,False,False,False,False,True,False,True,True
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/06/21,Ben Lomond,UT,41.363246,-111.960835,9712,2960,471,143,3585,1093,19.9,32.026,254,320,4,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/06/21,Willard Peak,UT,41.382783,-111.974424,9763,2976,3243,989,3546,1081,19.9,32.026,315,255,5,False,True,True,True,False,False,False,True,False,False,False,False,True,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/08/21,Murdock Mountain-West Slope,UT,40.678736,-110.902007,10840,3304,0,0,532,162,1.6,2.575,30,50,2,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/12/21,American Fork Twin Peaks,UT,40.551789,-111.656531,11489,3502,3649,1112,2498,761,10.4,16.737,260,190,9,True,True,True,False,False,False,False,True,True,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+08/28/21,Kings Peak,UT,40.776327,-110.372933,13528,4123,6348,1935,4293,1309,26.15,42.084,470,550,8,False,True,True,False,True,True,False,True,True,False,False,True,False,True,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09/04/21,Bull Mountain,UT,41.909956,-113.365914,9934,3028,3734,1138,3624,1105,10.8,17.381,0,0,4,False,True,True,True,True,False,False,False,False,False,False,False,False,False,True,True
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12/19/21,Guadalupe Peak,TX,31.891483,-104.860727,8749,2667,3029,924,2874,876,8.3,13.357,150,130,4,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/19/22,Stringham Peak,UT,40.969951,-112.219076,6374,1943,54,17,1792,546,8.06,12.971,135,89,2,False,True,False,False,False,True,True,False,False,True,False,False,True,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+03/19/22,Dooly Knob,UT,40.994184,-112.21015,5278,1609,188,58,403,123,8.1,13.035,201,24,2,False,True,False,False,False,True,True,False,False,True,False,False,True,False,True,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04/17/22,Ensign Peak,UT,40.794532,-111.890686,5414,1650,54,16,774,236,6.7,10.783,110,80,2,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+04/30/22,Sardine Peak,UT,41.24232,-111.868458,7485,2281,525,160,1177,359,8.46,13.615,93,120,2,False,True,True,True,False,False,True,False,False,True,False,False,True,False,True,False
